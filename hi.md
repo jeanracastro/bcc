@@ -1,4 +1,4 @@
-Alt-Big Header
+Big Header
 ======
 1. First ordered list item
 2. Another item
