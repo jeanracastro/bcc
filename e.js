@@ -9,3 +9,11 @@ document.getElementById("blankThree").innerHTML = questionOne + '!!' ;
 
 var questionOne = prompt("You have colonized this space. Name your new planet.");
 document.getElementById("blankFour").innerHTML = questionOne + '!!!' ;
+
+var myName = "JeanraCastro";
+console.log(myName);
+
+var theMonth = "April";
+var theYear = 2024;
+
+console.log(theMonth + theYear); 
